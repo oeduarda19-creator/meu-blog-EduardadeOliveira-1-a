@@ -1,0 +1,17 @@
+.cabecalho{
+    background-color: red;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 16px;
+}
+.principal{
+    background-color: black;
+    color: red;
+}
+.principal-imagem{
+    /*Dimensoẽs da imagem: largura e altura 300 pixels */
+    width: 300px;
+    height: 300px;
+}
