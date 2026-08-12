@@ -8,4 +8,7 @@ let texto = botao.querySelector("span");
 if (curtir === false)
     texto.textContent++;
 curtir=true
+
+if( '')
+
 }
